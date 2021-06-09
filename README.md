@@ -1,5 +1,5 @@
 # vgjgraph
-automatic graph layout in java grph editor  
+automatic graph layout in java graph editor  
 
 VGJ, Visualizing Graphs with Java, is a tool for graph drawing and automatic graph layout.  
 Graphs can be input into VGJ in two ways:  
@@ -22,7 +22,7 @@ because the layout algorithms are different this java source is extra interestin
 
 ![screenshot](screenshot.png)
 
-![screenshot2](screenshot.png2)
+![screenshot2](screenshot2.png)
 
 This is example gml graph data as input for vgj:  
 
